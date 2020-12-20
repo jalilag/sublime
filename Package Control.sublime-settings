@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dockerfile Syntax Highlighting",
+		"Jinja2",
+		"Package Control",
+		"Package Syncing",
+		"PowerShell",
+		"SideBarEnhancements",
+		"Terminal",
+		"TrailingSpaces",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
