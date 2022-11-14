@@ -2,9 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript",
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"Dockerfile Syntax Highlighting",
 		"Jinja2",
 		"MoveTab",
@@ -15,6 +17,6 @@
 		"Terminal",
 		"TrailingSpaces",
 		"TypeScript",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
 	],
 }

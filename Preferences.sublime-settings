@@ -6,7 +6,9 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"TypeScript",
 		"Vintage",
 	],
 	"tab_size": 2,
+	"theme": "Default Dark.sublime-theme",
 }
