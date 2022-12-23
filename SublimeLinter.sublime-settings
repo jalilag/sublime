@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+	"debug": true,
+
+	"linters": {
+		"flake8": {
+			"selector": "source.python"
+		}
+	}
+}

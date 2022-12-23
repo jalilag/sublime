@@ -1,0 +1,7 @@
+{
+  "python_interpreter": "python3",
+  "anaconda_linting": false,
+  "pep8_ignore":[
+      "E501", "W191"
+  ]
+}
